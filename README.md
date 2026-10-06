@@ -1,10 +1,10 @@
 <h1 align="center">Hello!, I'm Althaf</h1>
 
-<h3 align="center">AI Engineer | Data Science | Generative AI | RAG</h3>
+<h3 align="center">AI Engineer | Data Science | Data Analyst </h3>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 M.Sc. Data Science
 - 🤖 AI Engineer
