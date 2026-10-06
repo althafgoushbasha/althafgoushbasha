@@ -2,10 +2,6 @@
 
 <h3 align="center">AI Engineer | Data Science | Generative AI | RAG</h3>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=althafgoushbasha&label=Profile%20Views&style=flat)
-</p>
-
 ---
 
 ## 👨‍💻 About Me
