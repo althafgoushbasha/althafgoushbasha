@@ -6,17 +6,17 @@
 
 ##  About Me
 
-- 🎓 M.Sc. Data Science
-- 🤖 AI Engineer
-- 🧠 Interested in Generative AI, RAG & Machine Learning
-- 💻 Working with Python, SQL & FastAPI
-- 🔎 Building AI-powered applications and intelligent systems
-- 🚀 Passionate about solving real-world problems using AI
-- 📚 Continuously learning and improving my technical skills
+-  M.Sc. Data Science
+-  AI Engineer
+-  Interested in Generative AI, RAG & Machine Learning
+-  Working with Python, SQL & FastAPI
+-  Building AI-powered applications and intelligent systems
+-  Passionate about solving real-world problems using AI
+-  Continuously learning and improving my technical skills
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 | Category | Technologies |
 |---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,git,github,vscode,docker,fastapi,pytorch,tensorflow" />
@@ -41,9 +41,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 AI-Powered Recommendation Engine
+###  AI-Powered Recommendation Engine
 
 AI-based product recommendation system built using:
 
@@ -53,7 +53,7 @@ Designed to generate intelligent product recommendations using semantic similari
 
 ---
 
-### 🧠 Attention-Enhanced VGG19 for Stroke Detection
+###  Attention-Enhanced VGG19 for Stroke Detection
 
 Deep learning project for stroke detection from CT images using:
 
@@ -61,7 +61,7 @@ Deep learning project for stroke detection from CT images using:
 
 ---
 
-### 📊 Sales Performance Dashboard
+###  Sales Performance Dashboard
 
 Interactive Power BI dashboard for analyzing sales performance, trends and business insights.
 
@@ -69,7 +69,7 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=althafgoushbasha&show_icons=true&theme=radical&hide_border=true" height="180"/>
@@ -78,7 +78,7 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=althafgoushbasha&theme=radical&hide_border=true" />
@@ -86,7 +86,7 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
@@ -96,7 +96,7 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -113,5 +113,5 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+   Thanks for visiting my profile!
 </p>
