@@ -77,15 +77,6 @@ Interactive Power BI dashboard for analyzing sales performance, trends and busin
 </p>
 
 ---
-
-##  GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=althafgoushbasha&theme=radical&hide_border=true" />
-</p>
-
----
-
 ##  Currently Learning
 
 - Generative AI
